@@ -1,2 +1,1 @@
-# PRINT-IT
-Projet 8 / Formation développeur Wordpress / Openclassroom
+# Print-It WebSite v.1
